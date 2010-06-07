@@ -1,6 +1,6 @@
 = creating-gem-example
 
-Description goes here.
+This is the example code for my blog article at: http://royw.wordpress.com/2010/06/07/ruby-gem-recipe/
 
 == Note on Patches/Pull Requests
  
