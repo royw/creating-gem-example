@@ -21,9 +21,18 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
      ".gitignore",
+     "Gemfile",
      "LICENSE",
      "README.rdoc",
      "Rakefile",
+     "VERSION",
+     "bin/example",
+     "creating-gem-example.gemspec",
+     "lib/VERSION",
+     "lib/example.rb",
+     "lib/example/cli.rb",
+     "lib/example/example.rb",
+     "spec/example_spec.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb"
   ]
